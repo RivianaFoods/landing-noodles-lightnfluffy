@@ -1,5 +1,5 @@
 .drDUkw .top-header {
-    background-color: #2a2f5e;
+    background-color: #ffbb1a;
     &:after {
         background: #fff;
         display: none;
@@ -21,22 +21,28 @@
     }
 }
 .kTrfkB {
-    background: #a11510;
+    background: #bb2127;
 }
 .czIBPk {
     background-image: none;
-    background-color: #2a2f5e;
+    background-color: #ffbb1a;
 }
 .UPQzX {
     display: none;
 }
 .dFFgOb #nav-search-btn:hover {
-    background-color: #2a2f5e
+    background-color: #ffbb1a
 }
+.social {
+    .facebookLink, .instagramLink, .youTubeLink {
+        display: none;
+    }
+}
+
 section.landing-body {
     font-family: 'Bitter', serif;
     padding-top: 15px;
-    background: #a11510;
+    background: #bb2127;
     
     .hero {
         padding: 10px;
